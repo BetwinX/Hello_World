@@ -1,1 +1,2 @@
-# Hello_World-
+# Hello_World
+Задвання до практичної 3
